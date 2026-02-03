@@ -1,4 +1,4 @@
-# cs231n-185hw1
+# cs231n
 
 Here are the homework files for all of the assignments I did when self-studying cs231n.
 
